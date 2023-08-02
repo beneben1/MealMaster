@@ -1,4 +1,4 @@
-# Diet Planner App
+# MealMaster
 
 ![Diet Planner App Logo](link_to_your_logo)
 
@@ -16,7 +16,7 @@
 
 ## Introduction
 
-The Diet Planner App is a mobile application designed to help users plan their diets based on their health goals and preferences. The app allows users to answer a set of questions to determine their goal (weight loss, staying healthy, or muscle building) and then calculates the recommended daily calorie intake. Users can choose from three basic diets: normal, fasting (intermittent fasting), and vegan. The app provides detailed information about each diet and allows users to create an account to save their diet plans and track their progress over time.
+The MealMaster App is a mobile application designed to help users plan their diets based on their health goals and preferences. The app allows users to answer a set of questions to determine their goal (weight loss, staying healthy, or muscle building) and then calculates the recommended daily calorie intake. Users can choose from three basic diets: normal, fasting (intermittent fasting), and vegan. The app provides detailed information about each diet and allows users to create an account to save their diet plans and track their progress over time.
 
 ## Features
 
@@ -37,7 +37,7 @@ Follow the instructions below to get a local copy of the project up and running 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your_username/diet-planner-app.git
+   git clone https://github.com/benben1/MealMaster.git
    ```
 
 2. Navigate to the project directory:
