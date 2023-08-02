@@ -1,6 +1,6 @@
 # MealMaster
 
-![Diet Planner App Logo](link_to_your_logo)
+(https://github.com/beneben1/MealMaster/blob/main/mealmaster-logo.jpeg)
 
 ## Table of Contents
 
