@@ -1,5 +1,5 @@
 # MealMaster
-img : https://github.com/beneben1/MealMaster/blob/main/mealmaster-logo.jpeg
+![MealMaster](https://github.com/beneben1/MealMaster/blob/main/mealmaster-logo.jpeg)
 
 ## Table of Contents
 
