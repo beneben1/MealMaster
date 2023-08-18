@@ -2,7 +2,7 @@
 ![MealMaster](https://github.com/beneben1/MealMaster/blob/main/mealmaster-logo.jpeg)
 
 ## Table of Contents
-
+https://docs.google.com/document/d/1DQz8m7fu0sc9rpY2N0K6cWt40KXBRfzDTv2Hl1H7ntQ/edit
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Getting Started](#getting-started)
